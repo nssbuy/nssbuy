@@ -9,7 +9,7 @@ NSSBUY's website is https://nssbuy.com  or https://nssbuy.cn.
 
 
 ## Contact Me
-send email to cs@nssbuy.com
+Send email to cs@nssbuy.com
 
 <!---
 nssbuy/nssbuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
